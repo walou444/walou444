@@ -20,7 +20,9 @@ I build desktop applications, web tools and self-hosted services. My work spans 
   <a href="https://kloups.fr"><img src="assets/project-kloups-studio.svg" alt="Kloups Studio — web design and development" width="48%"></a>
 </p>
 
-## What I work with
+## Languages and tools
+
+<img src="https://skillicons.dev/icons?i=rust,ts,js,python,html,css,qt,nextjs,react,nodejs,tailwind,linux,docker,git,github,nginx,vercel&amp;perline=9&amp;theme=dark" alt="Rust, TypeScript, JavaScript, Python, HTML, CSS, Qt, Next.js, React, Node.js, Tailwind CSS, Linux, Docker, Git, GitHub, Nginx and Vercel icons">
 
 - **Desktop software** · Rust, Qt and QML
 - **Web and interfaces** · TypeScript, JavaScript, React, Next.js, Tailwind CSS
