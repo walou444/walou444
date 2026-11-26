@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://kloups.fr">
-  <img src="assets/banner.svg" alt="KLOUPS — software, design and infrastructure studio" width="100%">
+  <img src="https://raw.githubusercontent.com/kloups-studio/.github/main/assets/KLOUPS%20STUDIO%2C%20empreinte%20num%C3%A9rique.png" alt="Kloups Studio — Logiciels · Web · Outils" width="100%">
 </a>
 
 <p>
