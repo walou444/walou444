@@ -8,9 +8,21 @@
 
 I build desktop applications, web tools and self-hosted services. My work spans interface design, development and deployment, with a background in audiovisual production and motion design.
 
-**[Portfolio ↗](https://kloups.fr)** · [Kloups Studio ↗](https://github.com/kloups-studio) · [Repositories ↗](https://github.com/walou444?tab=repositories)
+<p align="center">
+  <a href="https://kloups.fr"><img src="https://img.shields.io/badge/Portfolio-3155E7?style=for-the-badge" alt="Portfolio"></a>
+  &nbsp;
+  <a href="https://github.com/kloups-studio"><img src="https://img.shields.io/badge/Kloups%20Studio-24272C?style=for-the-badge" alt="Kloups Studio"></a>
+  &nbsp;
+  <a href="https://github.com/walou444?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24272C?style=for-the-badge" alt="Repositories"></a>
+</p>
 
-[Selected work ↓](#walou-work) · [Tech stack ↓](#walou-stack) · [Contributions ↓](#walou-activity)
+<p align="center">
+  <a href="#walou-work"><img src="https://img.shields.io/badge/Selected%20work-24272C?style=flat-square" alt="Selected work"></a>
+  &nbsp;
+  <a href="#walou-stack"><img src="https://img.shields.io/badge/Tech%20stack-24272C?style=flat-square" alt="Tech stack"></a>
+  &nbsp;
+  <a href="#walou-activity"><img src="https://img.shields.io/badge/Contributions-24272C?style=flat-square" alt="Contributions"></a>
+</p>
 
 <a name="walou-work"></a>
 
@@ -78,4 +90,8 @@ Python, HTML, CSS, Node.js and Git.
 
 ---
 
-See what I’m building at **[kloups.fr ↗](https://kloups.fr)** or browse the [Kloups Studio repositories ↗](https://github.com/orgs/kloups-studio/repositories).
+<p align="center">
+  <a href="https://kloups.fr"><img src="https://img.shields.io/badge/kloups.fr-24272C?style=flat-square" alt="kloups.fr"></a>
+  &nbsp;
+  <a href="https://github.com/orgs/kloups-studio/repositories"><img src="https://img.shields.io/badge/Studio%20repositories-24272C?style=flat-square" alt="Studio repositories"></a>
+</p>
